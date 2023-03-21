@@ -1,0 +1,22 @@
+# ninja log v5
+2	82	7011202145687163	CMakeFiles/ShapePractice.dir/rectangle.cpp.obj	84686f8c125ca373
+7	106	7011208977631362	CMakeFiles/ShapePractice.dir/circle.cpp.obj	1a4c86bdddbffe5a
+1	68	7011208977221326	CMakeFiles/ShapePractice.dir/main.cpp.obj	575daf99f1829ae5
+107	198	7011208978521702	ShapePractice.exe	501c79a6811ef1ad
+1	79	7011218327335710	CMakeFiles/ShapePractice.dir/source_files/main.cpp.obj	903068a7e1b26af6
+6	89	7011218327455728	CMakeFiles/ShapePractice.dir/rectangle/rectangle.cpp.obj	7f2f38a96d55f7fe
+14	109	7011218327655788	CMakeFiles/ShapePractice.dir/boundingCircle/boundingCircle.cpp.obj	7d00b2fbbe858f91
+10	110	7011218327665776	CMakeFiles/ShapePractice.dir/circle/circle.cpp.obj	c73312a1106667df
+111	205	7011218328585985	ShapePractice.exe	8368bef5d7c1ff99
+2	77	7011218662307952	CMakeFiles/ShapePractice.dir/source_files/main.cpp.obj	903068a7e1b26af6
+77	173	7011218663228311	ShapePractice.exe	8368bef5d7c1ff99
+2	74	7011218730329875	CMakeFiles/ShapePractice.dir/source_files/main.cpp.obj	903068a7e1b26af6
+75	174	7011218731300224	ShapePractice.exe	8368bef5d7c1ff99
+3	73	7011220713216978	CMakeFiles/ShapePractice.dir/source_files/main.cpp.obj	903068a7e1b26af6
+10	98	7011220713467031	CMakeFiles/ShapePractice.dir/boundingCircle/boundingCircle.cpp.obj	7d00b2fbbe858f91
+99	196	7011220714397365	ShapePractice.exe	8368bef5d7c1ff99
+2	70	7011220958652357	CMakeFiles/ShapePractice.dir/source_files/main.cpp.obj	903068a7e1b26af6
+9	98	7011220958932397	CMakeFiles/ShapePractice.dir/boundingCircle/boundingCircle.cpp.obj	7d00b2fbbe858f91
+98	196	7011220959882751	ShapePractice.exe	8368bef5d7c1ff99
+3	64	7011221721106152	CMakeFiles/ShapePractice.dir/source_files/main.cpp.obj	903068a7e1b26af6
+64	157	7011221721996301	ShapePractice.exe	8368bef5d7c1ff99
